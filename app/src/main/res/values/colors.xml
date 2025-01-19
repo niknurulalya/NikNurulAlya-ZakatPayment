@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_yellow">#4DB6AC</color> <!-- Kuning untuk butang -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="my_light_primarydark">#B2DFDB</color>
+    <color name="my_light_primary">#004D40</color>
+    <color name="background_color">#E0F2F1</color>
+
+</resources>
+

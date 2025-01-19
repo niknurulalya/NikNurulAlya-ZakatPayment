@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ZakatPayment" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorPrimaryDark">@color/my_light_primarydark</item>
+        <item name="android:colorPrimaryDark">@color/my_light_primarydark</item>
+    </style>
+    <style name="ToolbarStyle" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/button_yellow</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.ZakatPayment" parent="Base.Theme.ZakatPayment" />
+
+    </resources>
